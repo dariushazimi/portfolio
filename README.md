@@ -6,5 +6,12 @@ Setting up serverless services on AWS including Cloudformation, Codebuild, Codep
 
 ## Stack used
 Git, Github,
-SSH
-Python3
+SSH,
+Python3, ReactJs, Django
+AWS
+
+Pip requirements:
+Boto3
+AWScli
+ipython
+bpython
