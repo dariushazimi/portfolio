@@ -1,4 +1,8 @@
 # Logs
+*.pem
+*.key
+*.ipynb
+*.csv
 logs
 *.log
 npm-debug.log*
