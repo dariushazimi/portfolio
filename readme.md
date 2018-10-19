@@ -74,4 +74,4 @@ git reset --hard && git clean -df
 ```
 ## 005 Manual Merges and Conflict Resolution
 
-I hope this doesn't cause any issues
+This line was added within bad branch 
