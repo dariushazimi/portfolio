@@ -54,3 +54,7 @@ can be moved
 You can also manually move the head. 
 
 Use git difftool branchName HEAD to compare the changes
+
+git checkout master
+git merge updates
+git branch -d branchName, the timeline is preserved.
