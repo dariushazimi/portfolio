@@ -53,4 +53,4 @@ Head is the last commit of the current branch
 can be moved
 You can also manually move the head. 
 
-
+Use git difftool branchName HEAD to compare the changes
