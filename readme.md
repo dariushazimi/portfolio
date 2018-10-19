@@ -72,4 +72,10 @@ pull from github
 ```
 git reset --hard && git clean -df
 ```
+<<<<<<< HEAD
 Added this line when in master branch
+=======
+## 005 Manual Merges and Conflict Resolution
+
+This line was added within bad branch 
+>>>>>>> very-bad
