@@ -66,3 +66,4 @@ pull from github
 ```
 git reset --hard && git clean -df
 ```
+Hope this doesn't cause any issues
