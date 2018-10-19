@@ -72,10 +72,4 @@ pull from github
 ```
 git reset --hard && git clean -df
 ```
-<<<<<<< HEAD
-Hope this doesn't cause any issues
-=======
-## 005 Manual Merges and Conflict Resolution
-
-I hope this doesn't cause any issues
->>>>>>> very-bad
+Added this line when in master branch
