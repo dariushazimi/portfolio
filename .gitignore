@@ -1,4 +1,5 @@
 # Logs
+*.org
 *.pem
 *.key
 *.ipynb
