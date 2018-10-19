@@ -58,3 +58,11 @@ Use git difftool branchName HEAD to compare the changes
 git checkout master
 git merge updates
 git branch -d branchName, the timeline is preserved.
+=======
+# Ignore local changes and pull from master on github.
+To update local system with changes from github
+pull from github
+
+```
+git reset --hard && git clean -df
+```
